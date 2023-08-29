@@ -1,4 +1,4 @@
-const accountID = 144553
+/*const accountID = 144553
 let accountemail = "harrydixit@gmail.com"
 var accountpassword = "12345"
 accountcity = "gurgaon"
@@ -13,3 +13,5 @@ accountpassword = "2121"
 
 console.log(accountID);
 console.table([accountemail,accountpassword]);
+*/
+
