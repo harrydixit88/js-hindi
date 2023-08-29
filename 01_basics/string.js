@@ -16,5 +16,5 @@ console.log(newstring.trim());
 
 const url = "http://harry.com.harry%20pandit"
 
-console.log(url.replace('%20' ,'-'))
+console.log(url.replace('%20' ,'-'))*/
 
